@@ -48,7 +48,7 @@ header nav ul{
 
 #articleMainBg{
     
-    background-image: url(/imagens/hero_iphone14.jpg);
+    background-image: url(./imagens/hero_iphone14.jpg);
     background-position: center;
     object-fit: cover;
     background-size: cover;
@@ -108,7 +108,7 @@ header nav ul{
 #articleMainPro {
     width: 100%;
     height: 624px;
-    background-image: url(/imagens/iphonePro.jpg);
+    background-image: url(./imagens/iphonePro.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -145,7 +145,7 @@ header nav ul{
 .section3{
     width: 3008px;
     height: 624px;
-    background-image: url(/imagens/watch-ultra.jpg);
+    background-image: url(./imagens/watch-ultra.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -202,7 +202,7 @@ header nav ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/imagens/airpods_pro.jpg);
+    background-image: url(./imagens/airpods_pro.jpg);
 }
 
 .modalDivCards1 h1, h4 {
@@ -226,7 +226,7 @@ header nav ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/imagens/watch_series_8.jpg);
+    background-image: url(./imagens/watch_series_8.jpg);
 }
 
 .modalDivCards2 img {
@@ -247,7 +247,7 @@ header nav ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/imagens/fitness-plus-iphone.jpg);
+    background-image: url(./imagens/fitness-plus-iphone.jpg);
 }
 
 .modalDivCards3 img {
@@ -268,7 +268,7 @@ header nav ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/imagens/watch_se_avail.jpg);
+    background-image: url(./imagens/watch_se_avail.jpg);
 }
 
 .modalDivCards4 img {
@@ -289,7 +289,7 @@ header nav ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/imagens/ipadair_avail.jpg);
+    background-image: url(./imagens/ipadair_avail.jpg);
 }
 
 .modalDivCards5 img {
@@ -310,7 +310,7 @@ header nav ul{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/imagens/promo_macbookair.png);
+    background-image: url(./imagens/promo_macbookair.png);
 }
 
 .modalDivCards6 img {
